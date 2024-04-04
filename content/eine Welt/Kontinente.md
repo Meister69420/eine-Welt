@@ -1,11 +1,10 @@
-```
 ---
-title:Kontinente"
+title: Kontinente
 draft: false
 tags:
-  - 
 ---
-```
+
+
 
 
 Kontinente existieren. [[Iyera]]
